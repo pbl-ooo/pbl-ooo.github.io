@@ -9,3 +9,8 @@ h3 {
 p, blockquote {
     font-size: 21px;
 }
+
+table {
+    width: 100%;
+     
+}
